@@ -37,12 +37,14 @@ button {
     background-color: var(--pinkpink);
     margin-left: -200px;
     color: white;
+    cursor: pointer;
 }
 
 #no-btn{
     background-color: white;
     color: var(--pinkpink);
     margin-right: -200px; 
+    cursor: not-allowed;
 }
 
 .btn-group {
